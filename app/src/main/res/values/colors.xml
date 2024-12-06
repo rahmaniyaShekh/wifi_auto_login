@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="radius_blue">#0957EC</color>
+    <color name="Project_green">#267525</color>
+    <color name="Project_white">#F7F5F5</color>
+    <color name="text_card_BC">#EEF4FF</color>
+    <color name="whatsApp_Green">#075E57</color>
+    <color name="text_Black">#171719</color>
+    <color name="whatsAppGreen">#075E57</color>
+    <color name="borderYellow">#fad975</color>
+    <color name="veryLightYellow">#fdfaed</color>
+    <color name="ligtGreen">#d1efec</color>
+    <color name="borderGreen">#39b9ac</color>
+    <color name="lightOrange">#fd8733</color>
+    <color name="darkOrange">#fc4717</color>
+</resources>
