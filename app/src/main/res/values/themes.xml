@@ -8,6 +8,9 @@
     <style name="Theme.WifiLogin" parent="Base.Theme.WifiLogin" />
 
     <style name="splashScreenTheam" parent="Theme.MaterialComponents.NoActionBar">
-        <item name="android:windowBackground">@drawable/splash_screen_bg</item>
+        <item name="android:windowBackground">
+            @drawable/splash_screen_bg
+        </item>
+        <item name="android:statusBarColor">@color/white</item>
     </style>
 </resources>
