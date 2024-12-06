@@ -25,7 +25,7 @@ This project is an open-source Android application designed to help university s
 
 ## Steps to Use
 1. **Download or Clone**:
-   - Download the APK or clone the project into Android Studio and build the app.
+   - [Download the APK](https://drive.google.com/file/d/10hoD9G8d7iYdCpwPGNMaQF2TJNayeMM2/view?usp=sharing) or clone the project into Android Studio and build the app.
 2. **Install the App**:
    - Install the APK on your device.
 3. **Initial Setup**:
